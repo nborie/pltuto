@@ -74,17 +74,22 @@ ce qui créer un répertoire pltuto dans lequel vous allez travailler.
 	python/TUTO/TPE/newexo.pl
 
 il faut faire dans votre répertoire pltuto:
+
 	git add python/TUTO/TPE/newexo.pl
 puis valider le contenu 
+
 	git commit -m "mon premier exo" python/TUTO/TPE/newexo.pl
 puis le **uploader" sur github 
+
 	git push 
 
 ### Puis modifier la feuille 
 Puis modifier la feuille d'exercice python/TUTO/exemplefeuille.pltp en
 ajoutant la ligne
+
 	@ /python/0PLG/TPE/newexo.pl
 après la ligne
+
 	@ /python/0PLG/TPE/error.pl
 
 Pour la recharger dans moodle (c'est encore un peu/beaucoup buggé: il faut détuire la plactivité et la récréer .... oui  je sais !).
